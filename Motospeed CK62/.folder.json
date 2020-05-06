@@ -1,23 +1,23 @@
 {
-    "usageCount": 0, 
+    "type": "folder",
+    "title": "Motospeed CK62",
+    "modes": [],
+    "usageCount": 263,
+    "showInTrayMenu": false,
     "abbreviation": {
-        "wordChars": "[\\w]", 
-        "abbreviations": [], 
-        "immediate": false, 
-        "ignoreCase": false, 
-        "backspace": true, 
-        "triggerInside": false
-    }, 
-    "modes": [], 
-    "title": "Motospeed CK62", 
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
     "hotkey": {
-        "hotKey": "/", 
-        "modifiers": []
-    }, 
+        "modifiers": [],
+        "hotKey": "/"
+    },
     "filter": {
-        "regex": null, 
+        "regex": null,
         "isRecursive": false
-    }, 
-    "type": "folder", 
-    "showInTrayMenu": false
+    }
 }
